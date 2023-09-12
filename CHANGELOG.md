@@ -1,5 +1,11 @@
 # hello-alfon
 
+## 0.3.1
+
+### Patch Changes
+
+- Fixed naming issue
+
 ## 0.3.0
 
 ### Minor Changes
