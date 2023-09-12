@@ -1,5 +1,11 @@
 # hello-alfon
 
+## 0.3.2
+
+### Patch Changes
+
+- Removed extra files
+
 ## 0.3.1
 
 ### Patch Changes
