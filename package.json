@@ -9,13 +9,14 @@
   "type": "module",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "rimraf dist && tsc"
   },
   "keywords": [],
   "author": "milo",
   "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
+    "rimraf": "^5.0.1",
     "typescript": "^5.2.2"
   }
 }
